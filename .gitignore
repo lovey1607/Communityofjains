@@ -1,0 +1,4 @@
+# Ignore archives and upload temp folders
+*.zip
+COJ-github-pages-upload-v2/
+.DS_Store
